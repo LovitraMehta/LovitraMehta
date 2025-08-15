@@ -11,7 +11,6 @@
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAzdDZvZTNzamhydTlmZnhnYTRuZ3Z5NHJwb2tvZ3c5M3MyZjY5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="cool gif" />
 
-
 ###
 
 <div align="left">
@@ -51,3 +50,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
+
+###
+
+<!-- GitHub Snake Animation -->
+![GitHub Snake Light](https://raw.githubusercontent.com/LovitraMehta/LovitraMehta/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/LovitraMehta/LovitraMehta/output/github-snake-dark.svg#gh-dark-mode-only)
