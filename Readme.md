@@ -34,17 +34,9 @@
 
 ###
 
-<div align="left"> 
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
-  </a>
-  
+<div align="left">   
   <a href="https://www.instagram.com/_lovitramehta_?igsh=YWJtNnQ3Mmx3Ynd4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
   </a>
   
   <a href="https://discordapp.com/users/664459943130300416" target="_blank">
