@@ -34,20 +34,20 @@
 
 ###
 
-<p align="center">
-  <a href="https://www.instagram.com/_lovitramehta_?igsh=YWJtNnQ3Mmx3Ynd4">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/lovitra-mehta-960882267">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://discordapp.com/users/664459943130300416">
-    <img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord" />
-  </a>
-  <a href="mailto:lovitramehta@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
-  </a>
-</p>
+<div class="social-icons">
+    <a href="https://www.instagram.com/_lovitramehta_?igsh=YWJtNnQ3Mmx3Ynd4" target="_blank">
+        <img src="instagram.png" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/lovitra-mehta-960882267" target="_blank">
+        <img src="linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="https://discordapp.com/users/664459943130300416" target="_blank">
+        <img src="discord.png" alt="Discord">
+    </a>
+    <a href="mailto:lovitramehta@gmail.com" target="_blank">
+        <img src="gmail.png" alt="Gmail">
+    </a>
+</div>
 
 
 ###
