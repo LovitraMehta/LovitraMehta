@@ -34,20 +34,32 @@
 
 ###
 
-<div class="social-icons">
-    <a href="https://www.instagram.com/_lovitramehta_?igsh=YWJtNnQ3Mmx3Ynd4" target="_blank">
-        <img src="instagram.png" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/lovitra-mehta-960882267" target="_blank">
-        <img src="linkedin.png" alt="LinkedIn">
-    </a>
-    <a href="https://discordapp.com/users/664459943130300416" target="_blank">
-        <img src="discord.png" alt="Discord">
-    </a>
-    <a href="mailto:lovitramehta@gmail.com" target="_blank">
-        <img src="gmail.png" alt="Gmail">
-    </a>
+<div align="left"> 
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
+  </a>
+  
+  <a href="https://www.instagram.com/_lovitramehta_?igsh=YWJtNnQ3Mmx3Ynd4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  
+  <a href="https://twitch.tv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+  </a>
+  
+  <a href="https://discordapp.com/users/664459943130300416" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </a>
+  
+  <a href="mailto:lovitramehta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lovitra-mehta-960882267" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
+
 
 
 ###
